@@ -1,4 +1,4 @@
-# Samart-Waste-Management-System-using-ndemcu
+# Smart-Waste-Management-System-using-ndemcu
 //Used Components//
 
 //Hardware//
